@@ -12,9 +12,9 @@
 
 .left-div{
 	width: 20%;
-    float: left;
-    text-align: center;
-	background-color: #B9D9EB;
+	float: left;
+	text-align: center;
+	background-color: #B2BEB5;
 	height: 100vh;
 	position: relative;
 }
@@ -22,7 +22,7 @@
     width: 80%;
     float: right;
     text-align: center;
-	background-color: #F0F8FF;
+	background-color: #FFFFFF;
 	height: 100vh;
 	position: relative;
 }
@@ -35,7 +35,12 @@
 	text-align: center;
 }
 
-.centered img {
+.profile-pic {
 	width: 150px;
 	border-radius: 50%;
+}
+
+.menu-icons {
+	width: 30px;
+	border-radius: 20%;
 }
