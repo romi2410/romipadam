@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+#container{
+	height: 100vh;
+}
+
+.left-div{
+    width: 20%;
+    float: left;
+    text-align: center;
+	background-color: #B9D9EB;
+	height: 100vh;
+	position: relative;
+}
+.right-div{
+    width: 80%;
+    float: right;
+    text-align: center;
+	background-color: #F0F8FF;
+	height: 100vh;
+}
